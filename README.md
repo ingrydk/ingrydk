@@ -1,23 +1,40 @@
-## Hello, World!
-Sou mestranda em Engenharia Elétrica e estou me aventurando na programação! 🐍
-## Está aprendendo:
+<div align="center">
+ <h1>Hello, World!</h1>
+ <a><h3>Sou mestranda em Engenharia Elétrica e estou me aventurando na programação! 🐍</h3></a>
 
-
-<div style="display: inline_block"><br>
+ <div>
+   <a href = "mailto:ingrydkcmelo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/ingrydk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div><br>
+ <h2>Estou aprendendo:</h2>
+ <div align="center">
  
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
           
-          
-
- ## Me encontre aqui:
-<div> 
-  <a href="https://instagram.com/ingrydk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ingrydkcmelo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ingrydk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ <br>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingrydk&show_icons=true&theme=dark)
+</div>
+
+<div align="center" style="display:flex;align-items:center;">
+        <picture style="height:100%">
+           <source
+             srcset="https://github-readme-stats.vercel.app/api?username=ingrydk&show_icons=true&theme=merko"
+             media="(prefers-color-scheme: dark)"
+           />
+           <source
+             srcset="https://github-readme-stats.vercel.app/api?username=ingrydk&show_icons=true"
+             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+           />
+           <img src="https://github-readme-stats.vercel.app/api?username=ingrydk&show_icons=true" />
+         </picture>
+        <a href="https://git.io/streak-stats"><img style="height:100%" src="https://streak-stats.demolab.com?user=ingrydk&theme=merko" alt="GitHub Streak" /></a>
+    
+</div>
+
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,12 +43,14 @@ Sou mestranda em Engenharia Elétrica e estou me aventurando na programação! �
     
 </head>
 <body>
-    <h1></h1>
-    <a href="#">
-        <img  src="https://github.com/ingrydk/ingrydk/blob/main/github-contribution-grid-snake.svg" alt="Cobra em Movimento">
-    </a>
- 
+    <div align="center">
+       <a href="#">
+           <img  style="width:100%" src="https://github.com/ingrydk/ingrydk/blob/main/github-contribution-grid-snake.svg" alt="Cobra em Movimento">
+       </a>
+    </div>
 </body>
 </html>
 </div>
+
+
  
