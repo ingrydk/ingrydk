@@ -6,10 +6,13 @@
    <a href = "mailto:ingrydkcmelo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/ingrydk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div><br>
- <h2>Estou aprendendo: </h2>
+
+<br><br>
  <div align="center">
  
    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="SQL" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641"/>
+   <img align="center" alt="Ladder" height="40" width="50" src="https://play-lh.googleusercontent.com/podH2rtQOsOCbaeDbqZPFqNR1WYRG9fpgp-W2HrIEnGNcvrY4P0RA_EmXj2Wzm__bCs"/>
    <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
    <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
           
