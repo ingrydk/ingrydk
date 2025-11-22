@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Hello, World!</h1>
- <a><h3>Sou mestranda em Engenharia Elétrica e estou me aventurando na programação! 🐍</h3></a>
+ <a><h3>Sou mestre em Engenharia Elétrica, Analista de Automação Industrial e estou me aventurando na programação! 🐍</h3></a>
 
  <div>
    <a href = "mailto:ingrydkcmelo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
